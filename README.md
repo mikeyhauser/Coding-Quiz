@@ -1,5 +1,6 @@
 # CodingQuizbyMH
-# link to the launched page on github
+
+link to the launched page on github
 https://mikeyhauser.github.io/Coding-Quiz/
 
 This is a short coding quiz I created with some basic questions about computer programming.  The quiz has the following features:
